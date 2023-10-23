@@ -51,7 +51,3 @@ Use `npm publish` inside `Packages/ABC` or check out [OpenUPM](https://openupm.c
 [Favo Yang's Medium Articles](https://medium.com/@favoyang)  
 [OpenUPM Docs](https://openupm.com/docs/)  
 [Having a Docker Container As Your Private NPM Registry — The Easy Way by Sibeesh Venu](https://medium.com/better-programming/having-a-docker-container-as-your-private-npm-registry-the-easy-way-68159fa94cc4)  
-
-## Contact
-[@github](https://www.github.com/adrenak)  
-[@www](http://www.vatsalambastha.com)
